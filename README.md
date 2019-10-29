@@ -6,3 +6,4 @@
 <p>To back previous folder <code>cd ..</code></p>
 <p>To remove folder <code>rmdir foldername</code></p>
 <h4>To back desktop form anywhere <code>cd ../..</code></h4>
+<p>To go to hard-drive disk <code>d:</code></p>
