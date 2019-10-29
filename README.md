@@ -5,5 +5,6 @@
 <p>To make new folder <code>mkdir</code></p>
 <p>To back previous folder <code>cd ..</code></p>
 <p>To remove folder <code>rmdir foldername</code></p>
-<h4>To back desktop form anywhere <code>cd ../..</code></h4>
+<h4>To back form started directory <code>cd ../..</code></h4>
 <p>To go to hard-drive disk <code>d:</code></p>
+<a href="https://www.digitalcitizen.life/command-prompt-how-use-basic-commands">11 basic commands you should know</a>
